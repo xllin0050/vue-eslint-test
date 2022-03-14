@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-    <threejs />
+    <circleMove />
 </template>
 
 <style></style>
